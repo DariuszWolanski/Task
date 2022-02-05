@@ -17,6 +17,4 @@ echo Successfull
 echo.
 echo Unsuccessful
 
-:end
-echo.
-echo Showed tasks successfully
+
